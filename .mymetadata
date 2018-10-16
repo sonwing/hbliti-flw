@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="hbliti-flw"
+  id="myeclipse.1536408903170"
+  context-root="/hbliti-flw"
+  j2ee-spec="5.0"
+  archive="hbliti-flw.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
